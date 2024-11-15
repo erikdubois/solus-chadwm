@@ -1,7 +1,7 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/void-chadwm/blob/main/logo.svg">
+ <img src="https://github.com/erikdubois/solus-chadwm/blob/main/logo.svg">
   <br />
-   Void linux Chadwm
+   Solus Chadwm
 </h1>
 
 # Chadwm is a fork from Dwm
